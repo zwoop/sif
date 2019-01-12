@@ -4,3 +4,6 @@
 [submodule "ck"]
 	path = ck
 	url = https://github.com/concurrencykit/ck.git
+[submodule "http-parser"]
+	path = http-parser
+	url = https://github.com/nodejs/http-parser.git
